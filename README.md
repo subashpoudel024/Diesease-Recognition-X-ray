@@ -1,6 +1,6 @@
 # Diesease-Recognition-X-ray
 
-This is a image classification project to diagnose Pneumonia and Tuberculosis using x-ray plates. 
+This is an image classification project to diagnose Pneumonia and Tuberculosis using x-ray plates. 
 
 The model used for training is VGG-16.
 
